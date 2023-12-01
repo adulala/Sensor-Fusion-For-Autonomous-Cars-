@@ -15,11 +15,20 @@
 
 **Distance Calculation**: The basic formula for distance calculation in a LiDAR system is:
 
+
+
 \[ Distance = \frac{Speed \times Time}{2} \]
+
+
+
+![Alt text](https://github.com/adulala/Sensor-Fusion-For-Autonomous-Cars-/blob/main/lidar.png)
+
 
 Where:
 - **Speed** is the speed of light (as LiDAR uses laser light).
 - **Time** is the time taken for the laser pulse to hit an object and return.
+
+
 
 The division by 2 is because the time measured is for the round trip of the laser pulse.
 
