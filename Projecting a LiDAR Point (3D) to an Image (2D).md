@@ -1,5 +1,6 @@
 ### Projecting a LiDAR Point (3D) to an Image (2D)
 Considering an image, and a point cloud, we'll get that result!
+![Alt text](https://github.com/adulala/Sensor-Fusion-For-Autonomous-Cars-/blob/main/lidarandcamera.png)
 
 **Understanding Sensor Positioning and Coordinate Systems**: The process of projecting a 3D point obtained from a LiDAR sensor onto a 2D image requires a clear understanding of the positioning and coordinate systems of both the LiDAR and the camera. This involves knowing how these sensors are oriented relative to each other and their respective coordinate frameworks.
 
