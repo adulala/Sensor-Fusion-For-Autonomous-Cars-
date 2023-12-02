@@ -18,7 +18,7 @@ This video presents a compelling demonstration of sensor fusion technology, show
 - **Technical Details**: For an in-depth look at the technical aspects, refer to our documentation.
 - **Future Improvements**: We are continually refining our approach to enhance accuracy and efficiency and are open to collaborations and suggestions.
 
-[![Sensor Fusion: Camera and LiDAR](thumbnail-link.jpg)](https://github.com/adulala/Sensor-Fusion-For-Autonomous-Cars-/blob/main/out-min.gif)
+[![Sensor Fusion: Camera and LiDAR](https://github.com/adulala/Sensor-Fusion-For-Autonomous-Cars-/blob/main/Fusion.png)](https://github.com/adulala/Sensor-Fusion-For-Autonomous-Cars-/blob/main/out-min.gif)
 
 _**Click on the image above to watch the full sensor fusion demonstration video.**_
 
