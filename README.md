@@ -1,5 +1,6 @@
 # Sensor-Fusion-For-Autonomous-Cars-
 3D Vision, LiDARs, cameras, and Sensor Fusion  
+[![Sensor Fusion: Camera and LiDAR](https://github.com/adulala/Sensor-Fusion-For-Autonomous-Cars-/blob/main/Fusion.png)](https://github.com/adulala/Sensor-Fusion-For-Autonomous-Cars-/blob/main/out-min.gif)
 
 Understanding the following sensors  technologies and their role in sensor fusion can provide a comprehensive understanding of how advanced sensing systems work, particularly in applications like autonomous vehicles, robotics, and smart systems. Here’s a detailed breakdown:
 
